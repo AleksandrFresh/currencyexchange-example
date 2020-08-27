@@ -1,0 +1,1 @@
+[{"model": "currency.currency", "pk": 1, "fields": {"code": "USD", "name": "United States Dollar", "country": "US"}}, {"model": "currency.currency", "pk": 2, "fields": {"code": "BYN", "name": "Belarussian Ruble", "country": "BY"}}, {"model": "currency.rate", "pk": 1, "fields": {"currency_from": 1, "currency_to": 2, "rate": "2.6000"}}]
